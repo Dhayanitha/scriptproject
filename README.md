@@ -137,9 +137,9 @@ areaBtn.addEventListener('click',function(e){
 });
 
 ## OUTPUT:
-![output](./static/img/page6.jpg)
+![output](./static/img/page10.jpg)
 
-![output](./static/img/page7.jpg)
+![output](./static/img/page 11.jpg)
 
 ## RESULT:
 ![output](./static/img/report8.jpg)
