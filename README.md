@@ -141,8 +141,11 @@ areaBtn.addEventListener('click',function(e){
 
 ![output](./static/img/page11.jpg)
 
-## RESULT:
+## CODE VALIDATOR:
 ![output](./static/img/report8.jpg)
 
 ![output](./static/img/report9.jpg)
+
+## RESULT:
+Thus a website is designed for the maths calculation and is hosted in the URL http://dhayanitha.student.saveetha.in:8000/mathvolumeofcylinder and http://dhayanitha.student.saveetha.in:8000/matharea . HTML code is validated.
 
